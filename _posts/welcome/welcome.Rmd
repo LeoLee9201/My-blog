@@ -1,0 +1,26 @@
+---
+title: "Welcome to Leo Kepeng Li"
+description: |
+  Welcome to our new blog, Leo Kepeng Li. We hope you enjoy 
+  reading what we have to say!
+author:
+  - name: Kepeng Li 
+    url: https://example.com/norajones
+    affiliation: My Sweet Home
+    affiliation_url: https://example.com/spacelysprokets
+date: 08-19-2024
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+
+# Learn more about creating blogs with Distill at:
+# https://rstudio.github.io/distill/blog.html
+
+```
+
+
+
