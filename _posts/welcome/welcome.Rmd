@@ -30,4 +30,12 @@ Once again, this page may contain some information that I developed to suit my p
 
 R is a powerful, open-source, free software for statistical analysis and graphics. It is 'a collaborative project with many contributors' and having numerous Packages utilized for different purposes. One can download the official R software via its website: <https://www.r-project.org>. 
 
-To better use and manage projects in R, I use RStudio as my main development environment tool. As the user interface of RStudio is much flexible and user-friendly, especially to new users, I would recommend people learn R language using RStudio from the beginning as this will largely improve output efficiency and help one quickly get used to the programming language environment. The official website of RStudio and download link can be found here: <https://posit.co/downloads>.
+To better use and manage projects in R, I use RStudio as my main development environment tool. As the user interface of RStudio is much flexible and user-friendly, especially to new users, I would recommend people learn R language using RStudio from the beginning as this will largely improve output efficiency and help one quickly get used to the programming language environment. The official website of RStudio and download link can be found here: <https://posit.co/downloads>. 
+
+### Basic Settings For First-Time User
+
+If you have installed R and RStudio, you should be able to see this layout on your monitor screen:
+
+![Caption](_posts/welcome/welcome_files/pic/pic1.png)
+
+<img src="_posts/welcome/welcome_files/pic/pic1.png" style="width:50%">
